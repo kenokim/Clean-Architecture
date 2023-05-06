@@ -9,3 +9,8 @@ Clean architecture 란 코드가 큰 문제를 일으키기 전에 탓할 수 �
 디테일을 먼저 정하지 말고 유스케이스를 먼저 보라.
 
 디테일을 논하지 않고 input, output, 프로세스를 이야기하는 것이 유스케이스다.
+
+Business rule, entity, usecase
+
+
+Go 는 VM 을 쓰지 않는 언어다.
